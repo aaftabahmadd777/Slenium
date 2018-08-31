@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="YAP api TESTS"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="23.131">
+  <properties />
+  
+  
+            <testcase name="Test_Verify_With_invalid_UUID_Document_Should_NotUpload" time="4.177" classname="controllers.api.api_Tests.common.Shared_API" />
+                <testcase name="Test_Verify_DocumentUpload" time="2.833" classname="controllers.api.api_Tests.common.Shared_API" />
+                <testcase name="Test_verifyEmail_asEmptty" time="1.603" classname="controllers.api.api_Tests.common.Shared_API" />
+                <testcase name="Test_verifyEmail_invalidFormat" time="10.740" classname="controllers.api.api_Tests.common.Shared_API" />
+                <testcase name="Test_verifyEmail_validFormat" time="1.499" classname="controllers.api.api_Tests.common.Shared_API" />
+                <testcase name="Test_verifyEmail_alreadyExists" time="1.445" classname="controllers.api.api_Tests.common.Shared_API" />
+                <testcase name="Test_Verify_Document_types_by_affiliation" time="0.834" classname="controllers.api.api_Tests.common.Shared_API" />
+      
+</testsuite>

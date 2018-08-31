@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="YAP api TESTS"
+           tests="10"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="31.071">
+  <properties />
+  
+  
+            <testcase name="Test_Signin" time="2.291" classname="controllers.api.api_Tests.company.Company_Signup" />
+                <testcase name="Test_affiliation" time="3.542" classname="controllers.api.api_Tests.company.Company_Signup" />
+                <testcase name="Test_create_nonSignatory" time="1.241" classname="controllers.api.api_Tests.company.Company_Signup" />
+                <testcase name="Test_null_UUID_CompanyName" time="0.765" classname="controllers.api.api_Tests.company.Company_Signup" />
+                <testcase name="Test_signup_Company_Api" time="10.802" classname="controllers.api.api_Tests.company.Company_Signup" />
+                <testcase name="Test_invalid_CompanyName" time="0.802" classname="controllers.api.api_Tests.company.Company_Signup" />
+                <testcase name="Test_create_nonSignatory_negative" time="2.134" classname="controllers.api.api_Tests.company.Company_Signup" />
+                <testcase name="Test_schedule_Meeting" time="2.468" classname="controllers.api.api_Tests.company.Company_Signup" />
+                <testcase name="Test_company_EmployeeCount" time="6.005" classname="controllers.api.api_Tests.company.Company_Signup" />
+                <testcase name="Test_valid_CompanyName" time="1.021" classname="controllers.api.api_Tests.company.Company_Signup" />
+      
+</testsuite>

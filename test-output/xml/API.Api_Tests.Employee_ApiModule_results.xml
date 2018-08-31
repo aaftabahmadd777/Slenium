@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="YAP api TESTS"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="12.604">
+  <properties />
+  
+  
+            <testcase name="Test_Verify_Employee_Number_asInvalid_uuid" time="2.847" classname="controllers.api.api_Tests.company.Employee_ApiModule" />
+                <testcase name="Test_Verify_Employee_Number_Positive" time="0.988" classname="controllers.api.api_Tests.company.Employee_ApiModule" />
+                <testcase name="Test_Verify_Employee_Account" time="5.968" classname="controllers.api.api_Tests.company.Employee_ApiModule" />
+                <testcase name="Test_Verify_Employee_Number_asEmpty" time="0.969" classname="controllers.api.api_Tests.company.Employee_ApiModule" />
+                <testcase name="Test_Verify_Employee_Number_asEmpty_uuid" time="1.032" classname="controllers.api.api_Tests.company.Employee_ApiModule" />
+                <testcase name="Test_Verify_Employee_Number_AlreadyExists" time="0.800" classname="controllers.api.api_Tests.company.Employee_ApiModule" />
+      
+</testsuite>

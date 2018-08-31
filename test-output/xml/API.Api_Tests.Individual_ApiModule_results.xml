@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="YAP api TESTS"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="12.089">
+  <properties />
+  
+  
+            <testcase name="Signup_Personal_Api" time="12.089" classname="api.api_Tests.individual.Individual_ApiModule" />
+      
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="YAP api TESTS"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.543">
+  <properties />
+  
+  
+            <testcase name="Test_sendSMS" time="2.355" classname="controllers.api.api_Tests.common.Utility_ApiModule" />
+                <testcase name="Test_verify_UserData" time="1.188" classname="controllers.api.api_Tests.common.Utility_ApiModule" />
+      
+</testsuite>
